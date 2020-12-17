@@ -17,6 +17,9 @@ body{
 .reserve-container{
 	position: relative;
 }
+.bottom-card {
+	margin-top: 10px;
+}
 .card-body{
 	-webkit-transition: all 1s ease; /* Safari and Chrome */
   	-moz-transition: all 1s ease; /* Firefox */
